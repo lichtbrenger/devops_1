@@ -35,7 +35,7 @@ def delete_student(student_id):  # noqa: E501
 
 
 def get_student_by_id(student_id):  # noqa: E501
-    """gets student
+    """gets student by id
 
     Returns a single student  # noqa: E501
 

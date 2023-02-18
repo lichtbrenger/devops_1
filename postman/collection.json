@@ -1555,7 +1555,7 @@
 					]
 				},
 				{
-					"name": "13.Find random student",
+					"name": "13.Find_random_student",
 					"event": [
 						{
 							"listen": "test",
